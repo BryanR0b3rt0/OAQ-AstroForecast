@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+.env
+.venv
+
+# VSCode
+.vscode/
+
+# Data temporales
+data/interim/
+
+# Modelos entrenados
+models/*.pkl
+models/*.joblib
+
+# Logs
+*.log
